@@ -16,3 +16,8 @@ Use an online Swift runner. Paste all four files into one editor pane in this or
 Then click **Run** and copy your output below.
 
 ## Sample Output
+```
+All:
+[x] Buy groceries
+[ ] Study Swift
+```
